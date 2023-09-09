@@ -79,6 +79,15 @@ const musicData = [
     artist: "Bob Moses",
     musicPath: "./assets/music/music-13.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-14.jpg",
+    posterUrl: "./assets/images/poster-14.jpg",
+    title: "Moth To A Flame",
+    album: "Dawn FM",
+    year: 2022,
+    artist: "Swedish House Mafia And The Weeknd",
+    musicPath: "./assets/music/music-14.mp3",
+  },
 ];
 
 
