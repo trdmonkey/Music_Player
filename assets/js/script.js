@@ -88,6 +88,15 @@ const musicData = [
     artist: "Swedish House Mafia And The Weeknd",
     musicPath: "./assets/music/music-14.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-15.jpg",
+    posterUrl: "./assets/images/poster-15.jpg",
+    title: "Afraid To Feel",
+    album: "Afraid To Feel",
+    year: 2022,
+    artist: "LF System",
+    musicPath: "./assets/music/music-15.mp3",
+  },
 ];
 
 
