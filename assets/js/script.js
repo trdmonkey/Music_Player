@@ -61,6 +61,24 @@ const musicData = [
     artist: "Kygo",
     musicPath: "./assets/music/music-11.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-12.jpeg",
+    posterUrl: "./assets/images/poster-12.jpeg",
+    title: "The Ghost Of Beverly Drive",
+    album: "Kintsugi",
+    year: 2015,
+    artist: "Death Cab For Cutie",
+    musicPath: "./assets/music/music-12.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-13.jpg",
+    posterUrl: "./assets/images/poster-13.jpg",
+    title: "Love Brand New",
+    album: "The Silence In Between",
+    year: 2022,
+    artist: "Bob Moses",
+    musicPath: "./assets/music/music-13.mp3",
+  },
 ];
 
 
