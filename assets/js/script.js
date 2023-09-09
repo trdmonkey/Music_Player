@@ -52,6 +52,15 @@ const musicData = [
     artist: "I Dont Know How but They Found Me",
     musicPath: "./assets/music/music-9.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-11.jpg",
+    posterUrl: "./assets/images/poster-11.jpg",
+    title: "Freeze",
+    album: "Thrill Of The Chase",
+    year: 2022,
+    artist: "Kygo",
+    musicPath: "./assets/music/music-11.mp3",
+  },
 ];
 
 
