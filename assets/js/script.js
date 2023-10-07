@@ -97,6 +97,33 @@ const musicData = [
     artist: "LF System",
     musicPath: "./assets/music/music-15.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-16.jpg",
+    posterUrl: "./assets/images/poster-16.jpg",
+    title: "Sky And Sand",
+    album: "Berlin Calling",
+    year: 2008,
+    artist: "Paul Kalkbrenner",
+    musicPath: "./assets/music/music-16.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-17.jpg",
+    posterUrl: "./assets/images/poster-17.jpg",
+    title: "Bleachball 2017",
+    album: "Remixes - EP",
+    year: 2017,
+    artist: "Nailin & Kane (Sebastien remix)",
+    musicPath: "./assets/music/music-17.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-18.jpg",
+    posterUrl: "./assets/images/poster-18.jpg",
+    title: "Just To Hear You Say",
+    album: "In Another Lifetime",
+    year: 2022,
+    artist: "Tinlicker",
+    musicPath: "./assets/music/music-18.mp3",
+  },
 ];
 
 
